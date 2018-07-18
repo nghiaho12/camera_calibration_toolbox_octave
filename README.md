@@ -9,3 +9,5 @@ set(fig_number,'Units','points', ...
 ```
 
 I've tested with single camera and stereo calibration. The GUI elements in Octave are usable, though rendering isn't 100% perfect. I found Octave GUI can be a bit quirky at times, might be related to my choice of using the i3 tiling windows manager.
+
+![alt text](https://user-images.githubusercontent.com/1471705/42861822-abf6b66c-8a11-11e8-94c0-faaff3412701.jpg)
